@@ -10,5 +10,3 @@ Options:
 """
 
 args = docopt(__doc__)
-
-print(args)
